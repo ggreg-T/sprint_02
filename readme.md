@@ -1,4 +1,9 @@
-                            MAQUETTE
+  
+  # index.html
+
+Le fichier index.html fonctionne sur les PC ayant une dimension de 1280x800.
+  
+  MAQUETTE
 
 Pour visionner la maquette cliquez sur ce lien:
 
