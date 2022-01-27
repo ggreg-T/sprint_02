@@ -94,8 +94,8 @@ header nav ul li a {
   margin-left: 190px;
   background-color: #1f1f2c;
   color: #fff;
-  width: 230px;
-  height: 58px;
+  width: 3rem;
+  height: 2rem;
   font-size: 0.95rem;
   line-height: 58px;
   justify-content: center;
@@ -309,7 +309,7 @@ div div form textarea {
 #image-1 {
   margin-top: 30px;
   margin-left: 30px;
-  width: 115px;
+  width: 105px;
 }
 
 #paragraphe-3 {
@@ -320,4 +320,10 @@ div div form textarea {
   color: rgba(41, 41, 41, 0.82);
   font-size: 23px;
   font-weight: bold;
+}
+
+#image-2 {
+  margin-top: 50px;
+  margin-left: 30px;
+  width: 105px;
 }
