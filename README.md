@@ -1,5 +1,5 @@
 # INSTRUCTIONS POUR LANCER LE PROJET: 
-pour lancer le projet de la page contact us, cliquez sur le lien en haut à droite 
+Pour lancer le projet de la page contact us, cliquez sur le lien en haut à droite 
 dans la partie "About", en dessous de "Lien page contact us".  
 
 # SPRINT_02
